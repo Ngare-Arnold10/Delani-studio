@@ -22,6 +22,6 @@ https://github.com/Ngare-Arnold10/Akan-names.git
 1. BOOTSTRAP
 1. jQuery
 ### Live Site
-View [Live] ()
+View [Live] (https://ngare-arnold10.github.io/Delani-studio/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
