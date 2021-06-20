@@ -1,0 +1,17 @@
+.header {
+    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-size: cover;
+    object-position: center;
+    object-fit: cover;
+    height: 500px;
+    position: relative;
+}
+.about-us {
+    color: black;
+}
+.what {
+    color: black;
+}
+.port {
+    color: black;
+}
