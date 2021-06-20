@@ -48,3 +48,24 @@ h1 {
     position: absolute;
     bottom: 0%;
 }
+.us {
+    text-align: center;
+}
+.asset {
+    height: 250px;
+    width: 250px;
+    padding: 6%;
+    padding-right: 0%;
+}
+.form-us {
+    background-image: url('../assets/backgrounds/cyt.jpg');
+    background-size: cover;
+    height: 750px;
+    width: 1200px;
+}
+.form-control {
+    background: none;
+}
+.contact {
+    color: white;
+}
